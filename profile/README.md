@@ -2,5 +2,5 @@
 
 ## Diagram
 
-![screenshot](./profile/screenshot.png "Diagram").
+![screenshot](./profile/screenshot1.png "Diagram").
 
